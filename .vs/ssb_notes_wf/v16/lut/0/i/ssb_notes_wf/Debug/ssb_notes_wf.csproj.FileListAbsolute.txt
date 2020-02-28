@@ -1,0 +1,8 @@
+C:\Users\diogo\OneDrive\Bureau\Ingo_project\ssb_notes_wf\.vs\ssb_notes_wf\v16\lut\0\b\ssb_notes_wf\bin\Debug\ssb_notes_wf.exe.config
+C:\Users\diogo\OneDrive\Bureau\Ingo_project\ssb_notes_wf\.vs\ssb_notes_wf\v16\lut\0\b\ssb_notes_wf\bin\Debug\ssb_notes_wf.exe
+C:\Users\diogo\OneDrive\Bureau\Ingo_project\ssb_notes_wf\.vs\ssb_notes_wf\v16\lut\0\i\ssb_notes_wf\Debug\ssb_notes_wf.csprojAssemblyReference.cache
+C:\Users\diogo\OneDrive\Bureau\Ingo_project\ssb_notes_wf\.vs\ssb_notes_wf\v16\lut\0\i\ssb_notes_wf\Debug\ssb_notes_wf.ssbNotes.resources
+C:\Users\diogo\OneDrive\Bureau\Ingo_project\ssb_notes_wf\.vs\ssb_notes_wf\v16\lut\0\i\ssb_notes_wf\Debug\ssb_notes_wf.Properties.Resources.resources
+C:\Users\diogo\OneDrive\Bureau\Ingo_project\ssb_notes_wf\.vs\ssb_notes_wf\v16\lut\0\i\ssb_notes_wf\Debug\ssb_notes_wf.csproj.GenerateResource.cache
+C:\Users\diogo\OneDrive\Bureau\Ingo_project\ssb_notes_wf\.vs\ssb_notes_wf\v16\lut\0\i\ssb_notes_wf\Debug\ssb_notes_wf.csproj.CopyComplete
+C:\Users\diogo\OneDrive\Bureau\Ingo_project\ssb_notes_wf\.vs\ssb_notes_wf\v16\lut\0\i\ssb_notes_wf\Debug\ssb_notes_wf.exe

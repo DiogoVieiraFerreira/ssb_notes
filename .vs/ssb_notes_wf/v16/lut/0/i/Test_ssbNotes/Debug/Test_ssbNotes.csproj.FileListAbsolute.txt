@@ -1,0 +1,7 @@
+C:\Users\diogo\OneDrive\Bureau\Ingo_project\ssb_notes_wf\.vs\ssb_notes_wf\v16\lut\0\b\Test_ssbNotes\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\diogo\OneDrive\Bureau\Ingo_project\ssb_notes_wf\.vs\ssb_notes_wf\v16\lut\0\b\Test_ssbNotes\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\diogo\OneDrive\Bureau\Ingo_project\ssb_notes_wf\.vs\ssb_notes_wf\v16\lut\0\b\Test_ssbNotes\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\diogo\OneDrive\Bureau\Ingo_project\ssb_notes_wf\.vs\ssb_notes_wf\v16\lut\0\b\Test_ssbNotes\bin\Debug\Test_ssbNotes.dll
+C:\Users\diogo\OneDrive\Bureau\Ingo_project\ssb_notes_wf\.vs\ssb_notes_wf\v16\lut\0\i\Test_ssbNotes\Debug\Test_ssbNotes.csprojAssemblyReference.cache
+C:\Users\diogo\OneDrive\Bureau\Ingo_project\ssb_notes_wf\.vs\ssb_notes_wf\v16\lut\0\i\Test_ssbNotes\Debug\Test_ssbNotes.csproj.CopyComplete
+C:\Users\diogo\OneDrive\Bureau\Ingo_project\ssb_notes_wf\.vs\ssb_notes_wf\v16\lut\0\i\Test_ssbNotes\Debug\Test_ssbNotes.dll

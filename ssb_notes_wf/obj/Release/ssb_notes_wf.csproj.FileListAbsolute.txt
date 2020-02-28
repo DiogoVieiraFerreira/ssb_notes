@@ -1,0 +1,9 @@
+C:\Users\diogo\OneDrive\Bureau\Ingo_project\ssb_notes_wf\ssb_notes_wf\bin\Release\ssb_notes_wf.exe.config
+C:\Users\diogo\OneDrive\Bureau\Ingo_project\ssb_notes_wf\ssb_notes_wf\bin\Release\ssb_notes_wf.exe
+C:\Users\diogo\OneDrive\Bureau\Ingo_project\ssb_notes_wf\ssb_notes_wf\bin\Release\ssb_notes_wf.pdb
+C:\Users\diogo\OneDrive\Bureau\Ingo_project\ssb_notes_wf\ssb_notes_wf\obj\Release\ssb_notes_wf.csprojAssemblyReference.cache
+C:\Users\diogo\OneDrive\Bureau\Ingo_project\ssb_notes_wf\ssb_notes_wf\obj\Release\ssb_notes_wf.ssbNotes.resources
+C:\Users\diogo\OneDrive\Bureau\Ingo_project\ssb_notes_wf\ssb_notes_wf\obj\Release\ssb_notes_wf.Properties.Resources.resources
+C:\Users\diogo\OneDrive\Bureau\Ingo_project\ssb_notes_wf\ssb_notes_wf\obj\Release\ssb_notes_wf.csproj.GenerateResource.cache
+C:\Users\diogo\OneDrive\Bureau\Ingo_project\ssb_notes_wf\ssb_notes_wf\obj\Release\ssb_notes_wf.exe
+C:\Users\diogo\OneDrive\Bureau\Ingo_project\ssb_notes_wf\ssb_notes_wf\obj\Release\ssb_notes_wf.pdb
